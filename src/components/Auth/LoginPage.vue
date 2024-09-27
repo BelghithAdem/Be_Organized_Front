@@ -94,7 +94,7 @@
 
         <footer class="mt-3">
           <p class="text-gray-400 text-sm">
-            By logging in, you agree to
+            By logging in, you agree toBy logging in, you agree to
             <a class="text-primary" href="/adem" target="_blank"
               >Terms of Use</a
             >
