@@ -7,7 +7,7 @@
           src="https://picsum.photos/1077"
           alt="logo"
         />
-        <p class="font-[800] font-inter text-2xl">Exemple</p>
+        <p class="font-[800] font-inter text-2xl">Exemplebelghith</p>
       </div>
       <section
         class="login-form h-full flex flex-col justify-center w-full sm:w-96 max-w-sm mx-auto px-4 sm:px-0"
@@ -15,11 +15,16 @@
         <h1
           class="title text-[#111827] font-[800] font-inter text-center text-3xl mb-10"
         >
+          Welcome Back123
+        </h1>
+        <h1
+          class="title text-[#111827] font-[800] font-inter text-center text-3xl mb-10"
+        >
           Welcome Back
         </h1>
 
         <q-form @submit="onSubmit">
-          <label for="account" class="text-xs">Account</label>
+          <label for="account" class="text-xs">Accountvvvvvvvvvvvvv</label>
           <q-input
             id="account"
             class="mb-3"
@@ -31,7 +36,7 @@
             outlined
           />
 
-          <label for="password" class="text-xs">Password</label>
+          <label for="password" class="text-xs">Passwordexemple</label>
           <q-input
             id="password"
             dense
@@ -93,10 +98,10 @@
         </p>
 
         <footer class="mt-3">
-          <p class="text-gray-400 text-sm">
-            By logging in, you agree toBy logging in, you agree to
+          <p class="text-gray-400 text-sm"
+            By logging in, you agree to reduce to managmen
             <a class="text-primary" href="/adem" target="_blank"
-              >Terms of Use</a
+              >Terms of Use treeddv</a
             >
           </p>
         </footer>
