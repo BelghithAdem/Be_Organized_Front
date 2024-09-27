@@ -17,6 +17,11 @@
         >
           Welcome Back
         </h1>
+        <h1
+          class="title text-[#111827] font-[800] font-inter text-center text-3xl mb-10"
+        >
+          Welcome Back
+        </h1>
 
         <q-form @submit="onSubmit">
           <label for="account" class="text-xs">Account</label>
