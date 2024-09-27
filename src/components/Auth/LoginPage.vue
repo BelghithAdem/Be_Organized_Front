@@ -98,8 +98,8 @@
         </p>
 
         <footer class="mt-3">
-          <p class="text-gray-400 text-sm">
-            By logging in, you agree to reduce to managment now
+          <p class="text-gray-400 text-sm"
+            By logging in, you agree to reduce to managmen
             <a class="text-primary" href="/adem" target="_blank"
               >Terms of Use treeddv</a
             >
